@@ -1,0 +1,16 @@
+﻿  compilation object save succeeded; see Z:\IGME\Semester 2\GGPA\GGPA6\x64\Debug\PixelShader.cso
+  compilation object save succeeded; see Z:\IGME\Semester 2\GGPA\GGPA6\x64\Debug\VertexShader.cso
+  SimpleShader.cpp
+  Mesh.cpp
+  Material.cpp
+  Main.cpp
+  GameEntity.cpp
+  Game.cpp
+z:\igme\semester 2\ggpa\ggpa6\dx11starter\game.cpp(30): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+z:\igme\semester 2\ggpa\ggpa6\dx11starter\game.cpp(271): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+z:\igme\semester 2\ggpa\ggpa6\dx11starter\game.cpp(381): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+z:\igme\semester 2\ggpa\ggpa6\dx11starter\game.cpp(382): warning C4244: 'initializing': conversion from 'LONG' to 'float', possible loss of data
+  DXCore.cpp
+  Camera.cpp
+  Generating Code...
+  DX11Starter.vcxproj -> Z:\IGME\Semester 2\GGPA\GGPA6\x64\Debug\GGPA.exe
